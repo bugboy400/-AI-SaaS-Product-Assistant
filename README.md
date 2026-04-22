@@ -1,6 +1,10 @@
 # -AI-SaaS-Product-Assistant
 AI-powered SaaS product assistant built with FastAPI, ChromaDB, and RAG. It enables semantic product search, chatbot-based recommendations, and lead capture through an interactive web UI.
 
+
+Watch the project demo here:  
+https://youtube.com/shorts/vLcRhskmauQ?feature=share
+
 This project is a lightweight AI-powered SaaS product assistant built using FastAPI, ChromaDB, and sentence-transformer embeddings. It provides a chat-based interface for exploring SaaS products through natural language queries.
 
 The system is designed as a simplified retrieval-augmented generation (RAG) pipeline, focusing on semantic product search, intent detection, and structured responses.
